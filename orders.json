@@ -1,0 +1,44 @@
+{
+  "S15HDFB01829": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Lars Hünsche, Neuer Weg 7, 06773 Gräfenhainichen-Schköna, Deutschland",
+    "price": "10.800 €",
+    "description": "Hersteller: Harley-Davidson <br>Typ: FLSTFBS <br> Fahrgestelnummer: 5HD1JT9C1HC015110 <br>Erstzulassung: 11/2016<br>TÜV 08/2027 <br> KM laut Vorbesitzer: 2.798 km <br>Leistung: 68 kW (93 PS) <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Bezitser 1 <br> Viele Extras; Originalteile vorhanden <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Lars Hünsche<br>Neuer Weg 7<br> 06773 Gräfenhainichen-Schköna<br> Deutschland<br>Telefon: +49 1749966539
+",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "10-06-2026",
+    "deliveryDate": "19-06-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Neuer Weg 7",
+      "postal_code": "06773",
+      "city": "Gräfenhainichen-Schköna",
+      "country": "Deutschland"
+    }
+  }
+}
